@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a32cd72e95fec714e9380f338e76b0bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - p: {instanceID: 0}
+  - _TMP: {instanceID: 0}
+  - _sfxGrappleClip: {fileID: 8300000, guid: 00b8ba89046c81d4ba47f10a2f2194a8, type: 3}
+  - _sfxGrappleSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
